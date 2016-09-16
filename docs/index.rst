@@ -11,3 +11,11 @@ Roadmap
 =======
 
 To know all the plans for Bartacus visit our `Waffle Board <https://waffle.io/Bartacus/Bartacus>`_.
+
+Contents
+========
+
+.. toctree::
+    :maxdepth: 1
+
+    copyright
