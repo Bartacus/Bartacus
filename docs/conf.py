@@ -57,6 +57,6 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 
 
 # -- Options for Intersphinx ----------------------------------------------
-
-# Example configuration for intersphinx: refer to the Python standard library.
-# intersphinx_mapping = {'https://docs.python.org/': None}
+intersphinx_mapping = {
+    'bundle': ('https://bartacus.readthedocs.io/projects/bundle/en/latest/', None),
+}

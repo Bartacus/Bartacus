@@ -19,3 +19,9 @@ Contents
     :maxdepth: 1
 
     copyright
+
+.. toctree::
+    :caption: Projects
+    :maxdepth: 2
+
+    BartacusBundle <https://bartacus.readthedocs.io/projects/bundle/en/latest/>
