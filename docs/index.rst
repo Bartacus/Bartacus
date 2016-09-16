@@ -19,3 +19,8 @@ Contents
     :maxdepth: 1
 
     copyright
+
+.. toctree::
+    :maxdepth: 2
+
+    projects/index
