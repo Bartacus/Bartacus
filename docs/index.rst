@@ -19,6 +19,7 @@ Contents
     :maxdepth: 1
 
     copyright
+    installation
 
 .. toctree::
     :caption: Projects
