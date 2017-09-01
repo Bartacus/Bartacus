@@ -6,7 +6,7 @@ To create a new project based on Bartacus create it with composer:
 
 .. code-block:: bash
 
-    composer create-project bartacus/bartacus -s dev
+    composer create-project bartacus/bartacus-standard
 
 It will install all necessary stuff for you.
 
