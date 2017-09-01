@@ -25,4 +25,4 @@ Contents
     :caption: Projects
     :maxdepth: 2
 
-    BartacusBundle <https://bartacus.readthedocs.io/projects/bundle/en/latest/>
+    BartacusBundle <https://bartacus.readthedocs.io/projects/bundle/en/stable/>
