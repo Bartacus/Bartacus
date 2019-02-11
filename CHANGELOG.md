@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) 
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+### Added
+- Add the BartacusTwigBundle
+
 ## [1.0.1] - 2017-09-1
 ### Fixed
 - Link to stable sub project docs instead of latest

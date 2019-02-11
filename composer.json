@@ -16,7 +16,8 @@
     ],
     "require": {
         "php": "^7.1",
-        "bartacus/bartacus-bundle": "^1.0"
+        "bartacus/bartacus-bundle": "^1.0",
+        "bartacus/twig-bundle": "^1.0"
     },
     "extra": {
         "branch-alias": {
