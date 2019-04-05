@@ -7,11 +7,6 @@ to gain all the advantages from Symfony, like Twig rendering and a really good
 DI container. Depending on your knowledge and previous experience you will
 like it more than Extbase and Fluid.
 
-Roadmap
-=======
-
-To know all the plans for Bartacus visit our `Waffle Board <https://waffle.io/Bartacus/Bartacus>`_.
-
 Contents
 ========
 
@@ -26,3 +21,5 @@ Contents
     :maxdepth: 2
 
     BartacusBundle <https://bartacus.readthedocs.io/projects/bundle/en/stable/>
+    BartacusPlatformshBundle <https://bartacus.readthedocs.io/projects/platformsh-bundle/en/stable/>
+    BartacusTwigBundle <https://bartacus.readthedocs.io/projects/twig-bundle/en/stable/>

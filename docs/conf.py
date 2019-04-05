@@ -20,17 +20,17 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Bartacus'
-copyright = u'2016, Patrik Karisch'
-author = u'Patrik Karisch'
+copyright = u'Emily Karisch'
+author = u'Emily Karisch'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = u'1.0'
+version = u'2.0'
 # The full version, including alpha/beta/rc tags.
-release = u'1.0.0'
+release = u'2.0.0'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -58,5 +58,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 
 # -- Options for Intersphinx ----------------------------------------------
 intersphinx_mapping = {
-    'bundle': ('https://bartacus.readthedocs.io/projects/bundle/en/latest/', None),
+    'bundle': ('https://bartacus.readthedocs.io/projects/bundle/en/stable/', None),
+    'platformsh-bundle': ('https://bartacus.readthedocs.io/projects/platformsh-bundle/en/stable/', None),
+    'twig-bundle': ('https://bartacus.readthedocs.io/projects/twig-bundle/en/stable/', None),
 }
